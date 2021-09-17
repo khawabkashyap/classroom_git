@@ -3,3 +3,7 @@ khwab
 new file
 one more line to follow
 let's start one more line
+modify again
+each commit is relates and can't dealeate the all commit
+if we restore to the previous by using the 
+git restore hash key from log file
